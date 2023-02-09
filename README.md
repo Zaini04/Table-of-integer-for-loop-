@@ -1,0 +1,2 @@
+# Table-of-integer-for-loop-
+In this program, the user is prompted to enter a number, and the for loop then generates a table of that number multiplied by the numbers 1 through 10. The result of each multiplication is displayed on a new line, along with a label indicating the multiplication that was performed. The loop continues until i is no longer less than or equal to 10, at which point the program terminates.
